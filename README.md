@@ -10,5 +10,4 @@ Qué encontrar?
 
 * API: Página con el contenido de la api, sus diferentes metodos y forma de usarlos.
 
--+-+-+-+-+-+-+-+-+-
-Dentro del proyecto se encuentra la carpeta que contiene el backup de la base de datos que se utilizó para realizar la prueba.
+Nota: Dentro del proyecto se encuentra la carpeta "Base de datos BackUp" que contiene el backup de la base de datos que se utilizó para realizar la prueba.
